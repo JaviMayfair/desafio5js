@@ -1,0 +1,11 @@
+.contenedor{
+    border: 2px black solid;
+    padding: 2%;
+    background-color: #F0F9B4;
+}
+button{
+    border-radius: 15% ;
+    background-color: white;
+    color: red;
+}
+
